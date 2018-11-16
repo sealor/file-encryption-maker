@@ -2,6 +2,7 @@ File Encryption Maker
 =====================
 
 This project is a prototype for file encryption with make.
+The encryption password is "hello".
 
 Initialize password store:
 ```
